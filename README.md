@@ -1,14 +1,26 @@
 # TIL (Today I learned)
 
+학습한 내용을 기록하는 공간
 
-## 목표 🌱
+## Commit Rule
 
->매일 기억할 만한 내용을 저장합니다. <br/>
->문제를 해결하는 과정을 기록하여, 더 나은 접근 방법을 익힌다. <br/>
->꾸준하게 기록을 남겨 공부하는 습관을 만들자! <br/>
+---
 
-## 작성 요령
+커밋의 타입은 아래와 같이 4가지로 구분
 
-1. Markdown문법으로 작성하며 확장자는 .md로 한다. <br/>
-2. 분야별로 카테고리를 정리한다. <br/>
-3. 참조는 반드시 명시한다. <br/>
+- New : 새로운 문서 작성
+- Update : 문서 내용 수정
+- Fix : 문서 오타 수정
+- Delete : 문서 삭제
+
+```
+[New] Study Title.md
+
+[Update] Study Title.md
+
+[Fix] Study Title.md
+
+[Delete] Study Title.md
+```
+
+## History
