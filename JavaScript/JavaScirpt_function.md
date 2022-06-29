@@ -7,7 +7,6 @@
 
 ## 함수 선언
 
----
 
 ```javascript
 function add(num1, num2) {
@@ -37,8 +36,6 @@ function print(num) {
 
 ## 함수 표현식
 
----
-
 `const name = function () {}`
 
 ```javascript
@@ -61,8 +58,6 @@ add = (a, b) => {
 <br/>
 
 ## 생성자 함수
-
----
 
 함수 이름의 **첫글자는 대문자**로 시작하며 \*`new`연산자로 자바스크립트 함수를 생성자로 호출하면, 다음과 같은 순서로 동작한다
 <br/>
