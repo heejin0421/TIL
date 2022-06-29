@@ -22,3 +22,8 @@
 ```
 
 ## History
+<details>
+<summary> 2022년 6월 </summary>
+
+#### 6월 30일
+- [x] [TIL 저장소 생성](https://github.com/RohHeeJin/TIL)
