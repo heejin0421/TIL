@@ -25,5 +25,6 @@
 <details>
 <summary> 2022년 6월 </summary>
 
-#### 6월 30일
+#### 6월 29일
 - [x] [TIL 저장소 생성](https://github.com/RohHeeJin/TIL)
+- [x] [JavaScript fuction 공부](https://github.com/RohHeeJin/TIL/blob/main/JavaScript/JavaScirpt_function.md)
