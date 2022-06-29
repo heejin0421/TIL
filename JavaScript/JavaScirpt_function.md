@@ -99,7 +99,6 @@ console.log(apple); // Fruit {name : apple, emoji: "🍎"}
 
 ## 콜백함수
 
----
 
 ### 일급함수(first-class function)
 
