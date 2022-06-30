@@ -22,9 +22,15 @@
 ```
 
 ## History
+
 <details>
 <summary> 2022년 6월 </summary>
 
 #### 6월 29일
+
 - [x] [TIL 저장소 생성](https://github.com/RohHeeJin/TIL)
 - [x] [JavaScript fuction 공부](https://github.com/RohHeeJin/TIL/blob/main/JavaScript/JavaScirpt_function.md)
+
+#### 6월 30일
+
+- [x] [React CDD 이론정리](https://github.com/RohHeeJin/TIL/blob/main/React/CDD.md)
