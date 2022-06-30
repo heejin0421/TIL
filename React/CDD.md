@@ -18,7 +18,7 @@ CSS > SASS > BEM > Styled Components
 사전에 버그를 방지하며 테스트 및 개발 속도를 향상한다.
 기본적으로 독립적인 개발환경에서 실행되기 때문에 상황에 구애받지 않고 UI 컴포넌트를 집중적으로 개발할 수 있다.
 
-주요 기능
+**주요 기능**
 
 - UI 컴포넌트들을 카탈로그 화하기
 - 컴포넌트 변화를 Stories로 저장하기
@@ -35,7 +35,7 @@ CSS > SASS > BEM > Styled Components
 $ npm install --save styled-components
 ```
 
-#### 1. 컴포넌트 만들기
+### 1. 컴포넌트 만들기
 
 ```javascript
 const 컴포넌트이름 = styled.태그종류`
@@ -44,7 +44,7 @@ const 컴포넌트이름 = styled.태그종류`
 `;
 ```
 
-#### 2. 컴포넌트를 재활용해서 새로운 컴포넌트 만들기
+### 2. 컴포넌트를 재활용해서 새로운 컴포넌트 만들기
 
 ```javascript
 const 컴포넌트이름 = styled(재사용할 컴포넌트)`
@@ -53,7 +53,7 @@ const 컴포넌트이름 = styled(재사용할 컴포넌트)`
 `;
 ```
 
-#### 3. Props 활용하기
+### 3. Props 활용하기
 
 ```javascript
 const 컴포넌트이름 = styled.태그종류`
