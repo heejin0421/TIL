@@ -35,9 +35,15 @@
 
 - [x] [React CDD 이론정리](https://github.com/RohHeeJin/TIL/blob/main/React/CDD.md)
 
+</details>
+
 <details>
 <summary> 2022년 7월 </summary>
 
-#### 7월 1일 ~ 2일
+#### 7월 1일
+
+- [x] [코드스테이츠 과제[react-custom-component]]
+
+#### 7월 2일 ~ 3일
 
 - [x] [KokoaTalk 클론코딩 1페이지](https://github.com/RohHeeJin/TIL/tree/main/CloneCoding/KoKoaTalk)
