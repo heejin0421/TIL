@@ -34,3 +34,10 @@
 #### 6월 30일
 
 - [x] [React CDD 이론정리](https://github.com/RohHeeJin/TIL/blob/main/React/CDD.md)
+
+<details>
+<summary> 2022년 7월 </summary>
+
+#### 7월 1일 ~ 2일
+
+- [x] [KokoaTalk 클론코딩 1페이지](https://github.com/RohHeeJin/TIL/tree/main/CloneCoding/KoKoaTalk)
