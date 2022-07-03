@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="css/style.css" />
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Welcome to kokoa Talk</title>
+  </head>
+  <body>
+    <div class="status-bar">
+      <div class="status-bar_colum">
+        <span>No Service</span>
+        <i class="fa-solid fa-wifi"></i>
+      </div>
+      <div class="status-bar_colum">
+        <span>18:43</span>
+      </div>
+      <div class="status-bar_colum">
+        <span>100%</span>
+        <i class="fa-solid fa-battery-full fa-lg"></i>
+        <i class="fa-solid fa-bolt-lightning"></i>
+      </div>
+    </div>
+    <header class="welcome-header">
+      <h1 class="welcome-header_title">Welcom to KoKoaTalk</h1>
+      <p class="welcome-header_text">
+        If you have a KoKoa Account,log in with your email or phone number.
+      </p>
+    </header>
+    <!-- 로그인페이지를 프렌드페이지로 이동시켜준다.
+    서버가 구현되지않았음으로 get방식 사용 -->
+    <form action="friends.html" method="get" id="login-form">
+      <input name="username" type="text" placeholder="Email or phone number" />
+      <input name="password" type="password" placeholder="Password" />
+      <input type="submit" value="Log In" />
+      <a href="#">Find KoKoa Account of Password</a>
+    </form>
+
+    <script
+      src="https://kit.fontawesome.com/02fb7dec88.js"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>

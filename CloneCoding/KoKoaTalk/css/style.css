@@ -1,0 +1,15 @@
+/* 리셋 css를 이용해서 모든 설정들을 초기화시켜준다 */
+@import "reset.css";
+@import "variables.css";
+
+/* components */
+@import "components/status-bar.css";
+
+/* screens */
+@import "screens/login.css";
+
+/* 이곳에는 모든 스크린에 적용될 수 있는 스타일을 작성한다 */
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
