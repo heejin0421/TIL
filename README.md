@@ -47,3 +47,8 @@
 #### 7월 2일 ~ 3일
 
 - [x] [KokoaTalk 클론코딩 1페이지](https://github.com/RohHeeJin/TIL/tree/main/CloneCoding/KoKoaTalk)
+
+#### 7월 4일
+
+- [x] [코드스테이츠 과제[react-custom-component_tag]](https://github.com/RohHeeJin/fe-sprint-react-custom-component/tree/master/src/components/BareMinimumRequirements)
+- [x] [KokoaTalk 클론코딩 2페이지(profile)](https://github.com/RohHeeJin/TIL/tree/main/CloneCoding/KoKoaTalk)
