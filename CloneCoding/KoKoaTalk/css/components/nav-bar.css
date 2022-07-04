@@ -1,0 +1,47 @@
+.nav {
+  /* 하단에 고정시킨다 */
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #f9f9fa;
+  padding: 20px 50px;
+  /* 박스 사이즈를 더 늘리지않는다 */
+  box-sizing: border-box;
+  border-top: 1px solid rgba(121, 121, 121, 0.3);
+}
+.nav__list {
+  display: flex;
+  justify-content: space-between;
+}
+.nav__link {
+  position: relative;
+  color: #2e363e;
+}
+.nav__notification {
+  background-color: tomato;
+  width: 28px;
+  height: 28px;
+  /* span은 블럭을해줘야 가로 새로 값이 적용된다
+  display: inline-block; */
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: 600;
+  /* position: absolute는 가장 가까운 relative를 가진 부모 기준으로 움직인다. */
+  position: absolute;
+  left: 15px;
+  bottom: 15px;
+}
+
+.ellipsis_notifition {
+  background-color: tomato;
+  width: 7px;
+  height: 7px;
+  border-radius: 3.5px;
+  /* position: absolute는 가장 가까운 relative를 가진 부모 기준으로 움직인다. */
+  position: absolute;
+  left: 30px;
+  bottom: 25px;
+}

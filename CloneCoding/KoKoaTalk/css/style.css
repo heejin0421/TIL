@@ -4,12 +4,18 @@
 
 /* components */
 @import "components/status-bar.css";
+@import "components/nav-bar.css";
+@import "components/screen-header.css";
+@import "components/user-component.css";
 
 /* screens */
 @import "screens/login.css";
+@import "screens/friends.css";
 
 /* 이곳에는 모든 스크린에 적용될 수 있는 스타일을 작성한다 */
 body {
+  color: #2e363e;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  height: 1000vh;
 }
