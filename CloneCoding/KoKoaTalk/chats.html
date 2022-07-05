@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Welcome to kokoa Talk</title>
+    <title>Chats - Kokoa Talk</title>
   </head>
   <body>
     <!-- 상단고정바 -->
@@ -25,59 +25,35 @@
     </div>
 
     <header class="screen-header">
-      <h1 class="screen-header__title">Friends</h1>
+      <h1 class="screen-header__title">Chats</h1>
       <div class="screen-header__icons">
         <span><i class="fa fa-search fa-lg"></i></span>
+        <span><i class="fa fa-comment-dots fa-lg"></i></span>
         <span><i class="fa fa-music fa-lg"></i></span>
         <span><i class="fa fa-cog fa-lg"></i></span>
       </div>
     </header>
 
-    <a id="friends-display-link">
-      <i class="fa-solid fa-circle-info"></i> Friends' Names Display
-      <i class="fa-solid fa-angle-right fa-xs"></i>
-    </a>
-
-    <main class="friends-screen">
+    <main class="main-screen">
       <!-- 프로필 사진 및 이름 -->
       <div class="user-component">
         <div class="user-component__column">
           <img
             src="https://avatars.githubusercontent.com/u/100185218?v=4"
-            class="user-component__avatar user-component__avatar--xl"
+            class="user-component__avatar user-component__avatar"
           />
           <div class="user-component__text">
             <h4 class="user-component__title">HeeJin</h4>
-            <!-- <h6 class="user-component__subtitle"></h6> -->
+            <h6 class="user-component__subtitle">
+              please check Mykokoa Account Info
+            </h6>
           </div>
         </div>
-        <div class="user-component__column"></div>
+        <div class="user-component__column">
+          <span class="user-component__time">21:22</span>
+          <div class="badge">1</div>
+        </div>
       </div>
-
-      <!-- 채널 파트 -->
-      <div class="friends-screen__channel">
-        <div class="friends-screen__channel-header">
-          <span>Channel</span>
-          <i class="fa-solid fa-angle-up fa-xs"></i>
-        </div>
-        <div class="user-component">
-            <!-- 채널목록 아이콘 및 이름 -->
-            <div class="user-component__column">
-             <img
-            src="https://play-lh.googleusercontent.com/cf3DwPLbS8Z55sDvUSTQ6PL1goPdm8KbZ81g4TEUAaeUh5LDhkzdjxKQ2RX6BGpv0x4=w480-h960-rw"
-            class="user-component__avatar user-component__avatar--sm"
-          />
-            <div class="user-component__text">
-             <h4 class="user-component__title user-component__title--not-bold">Channel</h4>
-            </div>
-            </div>
-       <div class="user-component__column">
-          <div>
-            <span>2</span>
-            <i class="fa-solid fa-angle-right fa-sm"></i>
-          </div>
-       </div>
-         
     </main>
 
     <!-- 하단고정바 -->
@@ -85,17 +61,19 @@
       <ul class="nav__list">
         <li class="nav__btn">
           <a class="nav__link" href="friends.html"
-            ><i class="fas fa-user fa-2x"></i>
+            ><i class="far fa-user fa-2x"></i>
           </a>
         </li>
         <li class="nav__btn">
           <a class="nav__link" href="chats.html">
-            <i class="far fa-comment fa-2x"></i>
+            <i class="fas fa-comment fa-2x"></i>
             <span class="nav__notification badge">1</span>
           </a>
         </li>
         <li class="nav__btn">
-          <a class="nav__link" href="find.html"><i class="fa fa-search fa-2x"></i></a>
+          <a class="nav__link" href="find.html"
+            ><i class="fa fa-search fa-2x"></i
+          ></a>
         </li>
         <li class="nav__btn">
           <a class="nav__link" href="more.html">

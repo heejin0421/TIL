@@ -1,0 +1,13 @@
+.badge {
+  background-color: tomato;
+  width: 28px;
+  height: 28px;
+  /* span은 블럭을해줘야 가로 새로 값이 적용된다
+    display: inline-block; */
+  border-radius: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: 600;
+}

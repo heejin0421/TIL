@@ -4,6 +4,7 @@
   /* 아이콘 세로기준 가운대정렬 */
   align-items: center;
   padding: var(--horizontal-space);
+  margin-bottom: 15px;
 }
 .screen-header__title {
   font-size: 32px;
