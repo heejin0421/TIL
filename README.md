@@ -55,6 +55,7 @@
 
 #### 7월 5일
 
+- [x] [KokoaTalk 클론코딩 3페이지(chats)](https://github.com/RohHeeJin/TIL/tree/main/CloneCoding/KoKoaTalk)
 - [x] [코드스테이츠 과제[fe-sprint-cmarket-hooks]](https://github.com/RohHeeJin/fe-sprint-cmarket-hooks)
 
 #### 7월 6일
