@@ -52,3 +52,17 @@
 
 - [x] [코드스테이츠 과제[react-custom-component_tag]](https://github.com/RohHeeJin/fe-sprint-react-custom-component/tree/master/src/components/BareMinimumRequirements)
 - [x] [KokoaTalk 클론코딩 2페이지(profile)](https://github.com/RohHeeJin/TIL/tree/main/CloneCoding/KoKoaTalk)
+
+#### 7월 5일
+
+- [x] [코드스테이츠 과제[fe-sprint-cmarket-hooks]](https://github.com/RohHeeJin/fe-sprint-cmarket-hooks)
+
+#### 7월 6일
+
+- [x] [코드스테이츠 과제[fe-sprint-cmarket-redux]](https://github.com/RohHeeJin/fe-sprint-cmarket-redux)
+
+#### 7월 8일
+
+- [x] [React 이론공부[JSX/Component/Props]](https://github.com/RohHeeJin/TIL/tree/main/React)
+
+#### 7월 9일
