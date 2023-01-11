@@ -1,6 +1,7 @@
 # TIL (Today I learned)
 
 학습한 내용을 기록하는 공간
+추후 개인블로그 제작후 이관
 
 ## Commit Rule
 
